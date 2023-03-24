@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         var s = "aaa"
         var m:Int = 700
+        var n:Int = 500
+    
     }
 }
