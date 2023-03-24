@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         var a:Int =10
         var c:String = "main"
+        var b:String = " dev"
     }
 }
