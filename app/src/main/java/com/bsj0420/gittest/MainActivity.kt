@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var a:Int =10
+        var c:String = "main"
     }
 }
